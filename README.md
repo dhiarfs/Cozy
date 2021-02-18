@@ -5,17 +5,21 @@ Cozy adalah aplikasi yang membantu masyarakat dalam mencari kos-kosan di seluruh
 ## Tools
 Tools yang digunakan :
 
-Flutter SDK
-Visual Studio Code
-Figma
-Github
-Java JDK 8
-Android SDK
-Firebase
+1. Flutter SDK
+2. Visual Studio Code
+3. Figma
+4. Github
+5. Java JDK 8
+6. Android SDK
+7. Firebase
 
 ## Backend
 
 - Consume API
+
+## State Management
+
+- Provider
 
 ## Preview
 
